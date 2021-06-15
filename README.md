@@ -5,6 +5,8 @@ Hello, this is a basic tool which has 4 components
 3. ARP spoofing
 4. Packet sniffing
 
+Execute directly in terminal "python3 basic_tool.py"
+
 The options 2,3,4 will npt work if option 1 is selected and the MAC address is changed.
 
 2. Network scanner is used to scan all the devices connected to a specific interface i.e, wired/wireless. When asked to enter Interface enter either "eth0' or "wlan0".
